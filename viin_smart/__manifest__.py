@@ -1,6 +1,6 @@
 {
     'name': "ViinSmart",
-    'name_vi_VN': "ViinSmart",
+    'name_vi_VN': "Điện thoại Viin",
     'summary': "Module for phone industry",
     'summary_vi_VN': "Phân hệ cho ngành công nghiệp điện thoại",
     'description': """
